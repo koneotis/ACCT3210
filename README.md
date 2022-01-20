@@ -16,7 +16,7 @@ _Preliminary and subject to change_ [__Follow this link for current version__](h
 |  |  |
 |__TA:__| __Nicholas WU__ |
 |Office: | Room 6066 (LSK Business Building) |
-|Email: | jhk.wu@ust.hk |
+|Email: | jhn.wu@ust.hk |
 |Office Hours | By Appointment |
 |  |  |
 |__Sections:__ | __Times__ |
