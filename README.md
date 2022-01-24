@@ -18,19 +18,27 @@ _Preliminary and subject to change_ [__Follow this link for current version__](h
 |Office: | Room 6066 (LSK Business Building) |
 |Email: | jhn.wu@ust.hk |
 |Office Hours | By Appointment |
-|  |  |
-|__Sections:__ | __Times__ |
-| L2 | Tuesday & Thursday, 12:00 - 13:20 |
-| L1 | Tuesday & Thursday, 13:30 - 14:50 |
-| L3 | Tuesday & Thursday, 16:30 - 17:50 |
-|    |     |
-| __Classroom:__ | [5583 __click here for map__](https://pathadvisor.ust.hk/search/from/Lee%20Shau%20Kee%20Building;V_PTkWfLl96h;Overall;1226,1425/to/ROOM%205583;hZ84PerilFha;5;2664,-170/floor/5/at/normalized/2586,-123,1) |
+
+
+|__Sections:__ | __Times & Places__ |
+| --- | --- |
+|__L2__| Tuesday & Thursday, 12:00 - 13:20 |
+|  | __Classroom:__ [5583 __click here for map__](https://pathadvisor.ust.hk/search/from/Lee%20Shau%20Kee%20Building;V_PTkWfLl96h;Overall;1226,1425/to/ROOM%205583;hZ84PerilFha;5;2664,-170/floor/5/at/normalized/2586,-123,1) |
+|  | __Zoom:__ TBA (Add drop period only.) |
+|__L1__| Tuesday & Thursday, 13:30 - 14:50 |
+|  | __Classroom:__ [5583 __click here for map__](https://pathadvisor.ust.hk/search/from/Lee%20Shau%20Kee%20Building;V_PTkWfLl96h;Overall;1226,1425/to/ROOM%205583;hZ84PerilFha;5;2664,-170/floor/5/at/normalized/2586,-123,1) |
+|  | __Zoom:__ TBA (Add drop period only.) |
+|__L3__| Tuesday & Thursday, 16:30 - 17:50 |
+|  | __Classroom:__ [5583 __click here for map__](https://pathadvisor.ust.hk/search/from/Lee%20Shau%20Kee%20Building;V_PTkWfLl96h;Overall;1226,1425/to/ROOM%205583;hZ84PerilFha;5;2664,-170/floor/5/at/normalized/2586,-123,1) |
+|  | __Zoom:__ TBA (Add drop period only.) |
+
+# A Note on COVID 19:
+
+The evolving pandemic will impact this course. This schedule, locations, and expectations of this course will change when required to comply with University policies. The version of the syllabus posted on [Github](https://github.com/ArthurHowardMorris/ACCT3210/blob/main/ACCT3210_Syl.pdf) and Canvas announcements will communicate changes as they are required.
 
 # Course description:
 
-Accounting information has a critical role to play in the planning and control of business operations, but only if well understood and clealy presented. This course builds on Principles of Accounting II (ACCT 2200), introducing more advanced topics. We put a greater weight on thoughtfully applying accounting data to with management accounting tools to real business problems.
-
-Topics covered include decision-making techniques, analysis of cost behavior, allocation of common and joint costs, use of cost information in operational and strategic decisions, transfer pricing, and performance measurement, incentive compensation, and data science for accounting.
+Managers rely on accounting information to guide the planning and control process. This course builds on Principles of Accounting II (ACCT 2200) to prepare students to produce and use this information. Topics covered include decision-making techniques, analysis of cost behavior, allocation of common and joint costs, use of cost information in operational and strategic decisions, transfer pricing, and performance measurement, incentive compensation, and data science for accounting.
 
 ## Course Objectives:
 By the end of this course, you should be able to:
@@ -83,15 +91,15 @@ The course is taught in the form of lectures, in-class exercises and discussions
 <!-- TODO: update chapters to version 17 -->
 | Chapter | Problems |
 | --- | --- |
-| 3  | 3-33; 3-37; 3-40; 3-48; 3-49; 3-51  |
+| 3   | 3-33; 3-37; 3-40; 3-48; 3-49; 3-51  |
 | 10  | 10-25; 10-26; 10-27; 10-28; 10-30; 10-33;10-40; 10-47; 10-48; |
-| 11  | 11-42;11-43; 11-48; |
-| 12  | 12-22;12-23; 12-24; 12-25;12-26;12-43; 12-44; |
+| 12  | 11-42;11-43; 11-48; |
+| 13  | 12-22;12-23; 12-24; 12-25;12-26;12-43; 12-44; |
 | 14  | 14-18; 14-20; 14-31; 14-34; 14-38; 14-39; |
-| 15  | 15-27; 15-21; 15-22; 15-29; |
-| 16  | 16-25; 16-28; 16-33; 16-36; |
-| 22  | 22-20, 22-24, 22-28; 22-29; 22-37; |
-| 23  | 23-22; 23-24; 23-26; 23-35; 23-39; 23-42 |
+| 16  | 15-27; 15-21; 15-22; 15-29; |
+| 17  | 16-25; 16-28; 16-33; 16-36; |
+| 23  | 22-20, 22-24, 22-28; 22-29; 22-37; |
+| 24  | 23-22; 23-24; 23-26; 23-35; 23-39; 23-42 |
 
 ## Appendix II: Course Schedule
 
@@ -106,25 +114,25 @@ The course is taught in the form of lectures, in-class exercises and discussions
 | 3-5   | 22 Feb| Discussion: 10-29; 10-46; Cost Function Case __Ch 10 & App.__  |
 | 3-6   | 24 Feb| Learning Curve __Ch 10__         |
 | 4-7   | 1 Mar | Learning Curve Case __Ch 10__         |
-| 4-8   | 3 Mar | Product Mix and Constrained Maximization __Ch 11__         |
-| 5-9   | 8 Mar | Product Mix and Constrained Maximization __Ch 11 Appendix__|
-| 5-10  | 10 Mar| Product Mix Case __Ch 11__ |
-| 6-11  | 15 Mar| Strategic profitability analysis and productivity analysis Discussion: 12-33; 12-34; Case assignment/discussion on Profitability and Productivity Analyses __Ch 12__ |
-| 6-12  | 17 Mar| Strategic profitability analysis and productivity analysis Discussion: 12-33; 12-34; Case assignment/discussion on Profitability and Productivity Analyses __Ch 12__ |
+| 4-8   | 3 Mar | Product Mix and Constrained Maximization __Ch 12__         |
+| 5-9   | 8 Mar | Product Mix and Constrained Maximization __Ch 12 Appendix__|
+| 5-10  | 10 Mar| Product Mix Case __Ch 12__ |
+| 6-11  | 15 Mar| Strategic profitability analysis and productivity analysis Discussion: 13-33; 13-34; Case assignment/discussion on Profitability and Productivity Analyses __Ch 13__ |
+| 6-12  | 17 Mar| Strategic profitability analysis and productivity analysis Discussion: 13-33; 13-34; Case assignment/discussion on Profitability and Productivity Analyses __Ch 13__ |
 | 7     | 22 Mar| __Midterm Exam - No Class__ See Schedule below.  |
-| 7-13  | 24 Mar| Variance Analysis, Standard Costing __Ch 7 & 14__  |
-| 8-14  | 29 Mar| Case on Customer Profitability analysis __Ch 7 & 14__  |
-| 8-15  | 31 Mar| Support department cost allocation __Ch 14 & 15__ |
+| 7-13  | 24 Mar| Variance Analysis, Standard Costing __Ch 7 & 15__  |
+| 8-14  | 29 Mar| Case on Customer Profitability analysis __Ch 7 & 15__  |
+| 8-15  | 31 Mar| Support department cost allocation __Ch 15 & 16__ |
 | 9     | 5 Apr | __Ching Ming Festival - No Class__  |
-| 9-16  | 7 Apr | Discussion: 14-23; 15-31 __Ch 14 & 15__ |
-| 10-17 | 12 Apr| Allocation of Joint Costs __Ch 16__  |
+| 9-16  | 7 Apr | Discussion: 14-23; 15-31 __Ch 15 & 16__ |
+| 10-17 | 12 Apr| Allocation of Joint Costs __Ch 17__  |
 | 10    | 14 Apr| __Mid-Term Break - No Class__  |
-| 11-18 | 19 Apr| Transfer Pricing & Joint Cost Case __Ch 22__ |
-| 11-19 | 21 Apr| Transfer Pricing __Ch 22__ |
-| 12-20 | 26 Apr| Case Discussion Transfer Pricing __Ch 22__ |
-| 12-21 | 28 Apr| Performance measurement, incentives and compensation __Ch 23__ |
-| 13-22 | 3 May | Performance measurement, incentives and compensation __Ch 23__ |
-| 13-23 | 5 May | Discussion: 23-36; 23-37, Data Science __Ch 23 & Ch 11__ |
+| 11-18 | 19 Apr| Transfer Pricing & Joint Cost Case __Ch 23__ |
+| 11-19 | 21 Apr| Transfer Pricing __Ch 23__ |
+| 12-20 | 26 Apr| Case Discussion Transfer Pricing __Ch 23__ |
+| 12-21 | 28 Apr| Performance measurement, incentives and compensation __Ch 24__ |
+| 13-22 | 3 May | Performance measurement, incentives and compensation __Ch 24__ |
+| 13-23 | 5 May | Discussion: 24-36; 24-37, Data Science __Ch 24 & Ch 11__ |
 | 15-24 | 10 May| Data Science __Ch 11__ |
 
 ### Exam Schedule:
