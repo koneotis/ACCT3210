@@ -24,13 +24,13 @@ _Preliminary and subject to change_ [__Follow this link for current version__](h
 | --- | --- |
 |__L2__| Tuesday & Thursday, 12:00 - 13:20 |
 |  | __Classroom:__ [5583 __click here for map__](https://pathadvisor.ust.hk/search/from/Lee%20Shau%20Kee%20Building;V_PTkWfLl96h;Overall;1226,1425/to/ROOM%205583;hZ84PerilFha;5;2664,-170/floor/5/at/normalized/2586,-123,1) |
-|  | __Zoom:__ TBA (Add drop period only.) |
+|  | __Zoom:__  Add drop period only [(Link)](https://hkust.zoom.us/j/99071033434?pwd=ZUhjUzAvZVNJYnhoaGxQWEtnRGJOdz09) |
 |__L1__| Tuesday & Thursday, 13:30 - 14:50 |
 |  | __Classroom:__ [5583 __click here for map__](https://pathadvisor.ust.hk/search/from/Lee%20Shau%20Kee%20Building;V_PTkWfLl96h;Overall;1226,1425/to/ROOM%205583;hZ84PerilFha;5;2664,-170/floor/5/at/normalized/2586,-123,1) |
-|  | __Zoom:__ TBA (Add drop period only.) |
+|  | __Zoom:__ Add drop period only [(Link)](https://hkust.zoom.us/j/98411275627?pwd=TUNEYjExZCtxcmJBc2JhVWZ2VERTQT09) |
 |__L3__| Tuesday & Thursday, 16:30 - 17:50 |
 |  | __Classroom:__ [5583 __click here for map__](https://pathadvisor.ust.hk/search/from/Lee%20Shau%20Kee%20Building;V_PTkWfLl96h;Overall;1226,1425/to/ROOM%205583;hZ84PerilFha;5;2664,-170/floor/5/at/normalized/2586,-123,1) |
-|  | __Zoom:__ TBA (Add drop period only.) |
+|  | __Zoom:__ Add drop period only [(Link)](https://hkust.zoom.us/j/96334509705?pwd=MEJmRFUwNkthMTJUWDk3NFFqNzRnQT09) |
 
 # A Note on COVID 19:
 
