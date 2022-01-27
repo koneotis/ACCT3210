@@ -66,22 +66,22 @@ The course is taught in the form of lectures, in-class exercises and discussions
 
 # Grading Scheme
 
-|Description|	Weight|
-| --- | ---|
+|Description  |	Weight|
+| ---         | ---   |
 | Participation |	10% |
-| Cases | 20% |
-| Midterm | 20% |
-| Final Exam | 50% |  
-|Total	| 100%|
+| Group Work    | 20% |
+| Midterm       | 20% |
+| Final Exam    | 50% |  
+|Total	        | 100%|
 
 ## Course Policy:
 1. Attendance and participation. Students are required to attend all classes and arrive on time. They are strongly encouraged to participate in discussions and other activities during classes. It is the spirit of participation that is valued, and students are not penalized for saying something incorrect. On the other hand, talking among students and other behavior that can cause disturbances to the class are not permitted.
 
 2. Practice / Homework problems. Solving problems is the best way of mastering the material covered in class. I encourage you to solve at least the recommended problems (see Appendix I) but will not collect them. You are also encouraged to do additional practice while preparing for the examinations. The full set of solutions to all problems at the end of each chapter will be posted on the course website when the chapter is done.
 
-3. Forming groups: TBA (depending on in-person status of course). <!-- In order to do in-class exercises and case studies in groups, it is your responsibility to form your group within the first two weeks of the semester. A member list template form will be provided on canvas and needed to be typed and submitted in hard copy on or before Feb 18 of week 3. Hand writing member list will not be accepted. Each group should only contain 4 members. -->
+3. Groups: Groups membership will be randomly assigned for each group assignment. Each assignment will be
 
-4. In-class group exercises and case studies. There are approximately 5 to 8 group assignments to be completed in class, and students are required to submit answers in groups. All group assignments are equally weighted and each individual group member’s worst (or missing) performance of the group assignments will not be included in calculating total marks. If your groupmate is absent from the assignment(s), you shall not include his/her name on the answer sheet or the whole group’s mark for that exercise will be zero.
+4. In-class group exercises and case studies. There are approximately 5 to 8 group assignments, for which students are required to submit answers in groups. All group assignments are equally weighted and each individual group member’s worst (or missing) performance of the group assignments will not be included in calculating total marks.
 
 5. Examinations. The midterm examination is scheduled to be in the evening of 7:00pm to 9:00pm, Wednesday, March 20, 2022, at (venue to be confirmed). Details of the assigned seating arrangement will be announced later. All students are required to take the midterm exam at this pre-scheduled time, and there will be no make-up exam for it. Students absent from the midterm exam will receive zero mark for this component, except for highly unusual circumstances that cannot be controlled and avoided by the student---in which case the grade weight on the midterm exam will be loaded to the final examination component.
 The current plan is to use in-person exams for this course; however, please note that the evolving pandemic may require us to use online evaluations. If this happens we will use canvas to administer them.
@@ -105,9 +105,8 @@ The current plan is to use in-person exams for this course; however, please note
 ## Appendix II: Course Schedule
 
 ### Lecture Schedule:
-<!-- TODO: update chapters to version 17 -->
 | Week/Mtg|Date | Topic & Chapter(s)    |
-| :---: | --- | ---------------    |
+| :---: | ---   | ---------------    |
 | 1-1   | 8 Feb | Introduction and "Coffee Shop" Review of Cost Topics __Ch 1 & 2__         |
 | 1-2   | 10 Feb| Review of Cost Volume Profit Analysis (MS-Excel based) __Ch 3__          |
 | 2-3   | 15 Feb| Decisions and Uncertainty __Ch 3 Appendix__ |
@@ -118,27 +117,27 @@ The current plan is to use in-person exams for this course; however, please note
 | 4-8   | 3 Mar | Product Mix and Constrained Maximization __Ch 12__         |
 | 5-9   | 8 Mar | Product Mix and Constrained Maximization __Ch 12 Appendix__|
 | 5-10  | 10 Mar| Product Mix Case __Ch 12__ |
-| 6-11  | 15 Mar| Strategic profitability analysis and productivity analysis Discussion: 13-33; 13-34; Case assignment/discussion on Profitability and Productivity Analyses __Ch 13__ |
-| 6-12  | 17 Mar| Strategic profitability analysis and productivity analysis Discussion: 13-33; 13-34; Case assignment/discussion on Profitability and Productivity Analyses __Ch 13__ |
+| 6-11  | 15 Mar| Strategic profitability analysis and productivity analysis Discussion: 13-33; 13-34; |
+| 6-12  | 17 Mar| Case assignment/discussion on Profitability and Productivity Analyses __Ch 13__ |
 | 7     | 22 Mar| __Midterm Exam - No Class__ See Schedule below.  |
 | 7-13  | 24 Mar| Variance Analysis, Standard Costing __Ch 7 & 15__  |
-| 8-14  | 29 Mar| Case on Customer Profitability analysis __Ch 7 & 15__  |
+| 8-14  | 29 Mar| Case on Customer Profitability Analysis __Ch 7 & 15__  |
 | 8-15  | 31 Mar| Support department cost allocation __Ch 15 & 16__ |
 | 9     | 5 Apr | __Ching Ming Festival - No Class__  |
 | 9-16  | 7 Apr | Discussion: 14-23; 15-31 __Ch 15 & 16__ |
 | 10-17 | 12 Apr| Allocation of Joint Costs __Ch 17__  |
 | 10    | 14 Apr| __Mid-Term Break - No Class__  |
-| 11-18 | 19 Apr| Transfer Pricing & Joint Cost Case __Ch 23__ |
-| 11-19 | 21 Apr| Transfer Pricing __Ch 23__ |
-| 12-20 | 26 Apr| Case Discussion Transfer Pricing __Ch 23__ |
+| 11-18 | 19 Apr| Transfer Pricing __Ch 23__ |
+| 11-19 | 21 Apr| Transfer Pricing & Joint Cost Case __Ch 23__ |
+| 12-20 | 26 Apr| Performance measurement, incentives and compensation __Ch 24__ |
 | 12-21 | 28 Apr| Performance measurement, incentives and compensation __Ch 24__ |
-| 13-22 | 3 May | Performance measurement, incentives and compensation __Ch 24__ |
-| 13-23 | 5 May | Discussion: 24-36; 24-37, Data Science __Ch 24 & Ch 11__ |
-| 15-24 | 10 May| Data Science __Ch 11__ |
+| 13-22 | 3 May | Discussion: 24-36; 24-37 |
+| 13-23 | 5 May | Data Science & Managerial Accounting __Ch 11__ |
+| 15-24 | 10 May| Data Science & Managerial Accounting __Ch 11__ |
 
 ### Exam Schedule:
 
-| Exam | Date | Time | Location | Chapters Covered |
+| Exam | Date | Time | Location | Sessions Covered |
 | --- | --- | --- | --- |
-| Mid-Term | TBA | TBA | TBA | TBA |
-| Final | TBA | TBA | TBA | TBA |
+| Mid-Term | March 22, 2022 | 19:00 - 21:00 | TBA | 1-12  |
+| Final | TBA | TBA | TBA | 1-24 |
