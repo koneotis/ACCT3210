@@ -34,35 +34,31 @@ _Preliminary and subject to change_ [__Follow this link for current version__](h
 
 # A Note on COVID 19:
 
-The evolving pandemic will impact this course. This schedule, locations, and expectations of this course will change when required to comply with University policies. The version of the syllabus posted on [Github](https://github.com/ArthurHowardMorris/ACCT3210/blob/main/ACCT3210_Syl.pdf) and Canvas announcements will communicate changes as they are required.
+The evolving pandemic will impact this course. This schedule, locations, and expectations of this course will change when required in order to comply with University policies. The version of the syllabus posted on [Github](https://github.com/ArthurHowardMorris/ACCT3210/blob/main/ACCT3210_Syl.pdf) and Canvas announcements will communicate changes as they are required.
 
 # Course description:
 
-Managers rely on accounting information to guide the planning and control process. This course builds on Principles of Accounting II (ACCT 2200) to prepare students to produce and use this information. Topics covered include decision-making techniques, analysis of cost behavior, allocation of common and joint costs, use of cost information in operational and strategic decisions, transfer pricing, and performance measurement, incentive compensation, and data science for accounting.
+Managers rely on accounting information to guide the planning and control process. This course builds on Principles of Accounting II (ACCT 2200) to prepare students to produce and use this information. Topics covered include decision-making techniques, analysis of cost behavior, allocation of common and joint costs, use of cost information in operational and strategic decisions, transfer pricing, and performance measurement, and incentive compensation, with an emphasis on the link between data science and accounting.
 
 ## Course Objectives:
 By the end of this course, you should be able to:
 1. Understand both the importance of management accounting for companies’ strategic and operational decisions and the pitfalls of misusing management accounting information and techniques.
-2. Solve problems arising in business planning, with the aid of mathematical and statistical tools (such as the decision tree, regression analysis, the learning curve, and linear programming).
+2. Solve problems arising in business planning, with the aid of mathematical and statistical tools.
 3. Evaluate various techniques for control and performance evaluation in a decentralized environment, and provide recommendations for an effective control system.
-4. Understand how data analytics been applied in accounting fields.
+4. Understand how managerial and financial accounting relate to data analytics, data science, and business intelligence.
 The course will also provide you with opportunities to
-5. Gain exposure to more complex (and realistic) business problems through real-life
- based cases.
+5. Think through a variety of business problems.
 6. Demonstrate team-work and leadership skills in solving operational and strategic planning problems.
 7. Demonstrate communication skills through team work, and class discussions.
 
-Detailed learning objectives are listed in the Appendix III below.
-
 ## Course Materials:
-__Required textbook.__ _Horngen’s Cost Accounting: A Managerial Emphasis_ (17th Ed.), by Srikant M. Datar, and Madhav Rajan. Pearson Education Inc.,
-Lecture notes (to be made available on the course webpage). Supplementary materials (reserved in the library):
-- Kaplan,Robert S., and Anthony A. Atkinson. Advanced Management Accounting. 3rd Edition. Englewood Cliffs, N.J.: Prentice-Hall Inc., 1998.
-- Cases (for group case studies)
+__Required textbook:__ _Horngen’s Cost Accounting: A Managerial Emphasis_ (17th Ed.), by Srikant M. Datar, and Madhav Rajan. Pearson Education Inc.
 
 ##  Teaching Methodology:
 
 The course is taught in the form of lectures, in-class exercises and discussions, and group case studies (with student presentations). Students are required to attend all classes and participate in class discussions and exercises. Readings and discussion problems for each class are assigned in advance. It is important that students read the assigned chapters and problems beforehand so that class time can be used efficiently.
+
+This is an in-person course; however, the course will be conducted via Zoom during the add/drop period.
 
 # Grading Scheme
 
@@ -72,24 +68,24 @@ The course is taught in the form of lectures, in-class exercises and discussions
 | Group Work    | 20% |
 | Midterm       | 20% |
 | Final Exam    | 50% |  
-|Total	        | 100%|
+| Total	        | 100%|
 
 ## Course Policy:
-1. Attendance and participation. Students are required to attend all classes and arrive on time. They are strongly encouraged to participate in discussions and other activities during classes. It is the spirit of participation that is valued, and students are not penalized for saying something incorrect. On the other hand, talking among students and other behavior that can cause disturbances to the class are not permitted.
+1. Attendance and participation. Students are required to attend all classes and arrive on time. They are strongly encouraged to participate in discussions and other activities during classes. It is the spirit of participation that is valued, and students are not penalized for saying something incorrect. On the other hand, talking among students and other behavior that can cause disturbances to the class are not permitted. Video is required during Zoom classes.
 
-2. Practice / Homework problems. Solving problems is the best way of mastering the material covered in class. I encourage you to solve at least the recommended problems (see Appendix I) but will not collect them. You are also encouraged to do additional practice while preparing for the examinations. The full set of solutions to all problems at the end of each chapter will be posted on the course website when the chapter is done.
+2. Practice / Homework problems. Solving problems is the best way of mastering the material covered in class. I encourage you to solve at least the recommended problems (see Appendix I) but will not collect them. You are also encouraged to do additional practice while preparing for the examinations. The solutions to all problems at the end of each chapter will be posted on Canvas under "Files".
 
-3. Groups: Groups membership will be randomly assigned for each group assignment. Each assignment will be
+3. Groups: Groups membership and leadership will be randomly assigned for each group assignment. The groups will be posted on canvas by the night before the assignment. This ensures that the groups are based on the current enrollment of the course.
 
-4. In-class group exercises and case studies. There are approximately 5 to 8 group assignments, for which students are required to submit answers in groups. All group assignments are equally weighted and each individual group member’s worst (or missing) performance of the group assignments will not be included in calculating total marks.
+4. Group exercises and case studies. There are approximately 5 to 8 group assignments, for which students are required to submit answers in groups. All group assignments are equally weighted and each individual group member’s worst (or missing) performance of the group assignments will not be included in calculating total marks.
 
 5. Examinations. The midterm examination is scheduled to be in the evening of 7:00pm to 9:00pm, Wednesday, March 20, 2022, at (venue to be confirmed). Details of the assigned seating arrangement will be announced later. All students are required to take the midterm exam at this pre-scheduled time, and there will be no make-up exam for it. Students absent from the midterm exam will receive zero mark for this component, except for highly unusual circumstances that cannot be controlled and avoided by the student---in which case the grade weight on the midterm exam will be loaded to the final examination component.
-The current plan is to use in-person exams for this course; however, please note that the evolving pandemic may require us to use online evaluations. If this happens we will use canvas to administer them.
+The current plan is to use in-person exams for this course; however, please note that the evolving pandemic may require us to use online evaluations. If this happens we will use Canvas to administer them.
 
-6. Academic honesty. It is important that students follow university regulations o n academic integrity and honesty. Academic dishonesty will not be tolerated and will be dealt with in accordance with university rules, which can be accessed at http://www.ust.hk/vpaao/integrity.
+6. Academic honesty. It is important that students follow university regulations on academic integrity and honesty. Academic dishonesty is super lame and will not be tolerated and will be dealt with in accordance with university rules, which can be accessed at http://www.ust.hk/vpaao/integrity.
 
 ## Appendix I: Practice Problems
-<!-- TODO: update chapters to version 17 -->
+
 | Chapter | Problems |
 | --- | --- |
 | 3   | 3-33; 3-37; 3-40; 3-48; 3-49; 3-51  |
