@@ -58,7 +58,10 @@ __Required textbook:__ _Horngen’s Cost Accounting: A Managerial Emphasis_ (17t
 
 The course is taught in the form of lectures, in-class exercises and discussions, and group case studies (with student presentations). Students are required to attend all classes and participate in class discussions and exercises. Readings and discussion problems for each class are assigned in advance. It is important that students read the assigned chapters and problems beforehand so that class time can be used efficiently.
 
-This is an in-person course; however, the course will be conducted via Zoom during the add/drop period.
+This is an in-person course; however, the conduct of the course will be updated as the University instructs. Thus, according to current instructions note the following:
+
+1. The course will conducted on-line (via Zoom) during the add drop period.
+2. The course will be conducted in mixed-mode lite after the add/drop period.
 
 # Grading Scheme
 
@@ -75,12 +78,12 @@ This is an in-person course; however, the course will be conducted via Zoom duri
 
 2. Practice / Homework problems. Solving problems is the best way of mastering the material covered in class. I encourage you to solve at least the recommended problems (see Appendix I) but will not collect them. You are also encouraged to do additional practice while preparing for the examinations. The solutions to all problems at the end of each chapter will be posted on Canvas under "Files".
 
-3. Groups: Groups membership and leadership will be randomly assigned for each group assignment. The groups will be posted on canvas by the night before the assignment. This ensures that the groups are based on the current enrollment of the course.
+3. Group assignment: Groups membership and leadership will be randomly assigned for each group assignment. During the add/drop period, groups will be posted on canvas by the night before the assignment. This ensures that the groups are based on the current enrollment of the course. After the add drop period passes groups will be assigned one week before each group assignment.
 
-4. Group exercises and case studies. There are approximately 5 to 8 group assignments, for which students are required to submit answers in groups. All group assignments are equally weighted and each individual group member’s worst (or missing) performance of the group assignments will not be included in calculating total marks.
+4. Group exercises and case studies. There are approximately 5 to 8 group assignments, for which students are required to submit answers in groups, most often these will be Google docs to be submitted via Canvas. All group assignments are equally weighted and each individual group member’s worst (or missing) performance of the group assignments will not be included in calculating total marks. The group leader is responsible for coordinating and submitting the group's work. Please notify the TA immediately if you are unable to establish contact with group members.
 
-5. Examinations. The midterm examination is scheduled to be in the evening of 7:00pm to 9:00pm, Wednesday, March 20, 2022, at (venue to be confirmed). Details of the assigned seating arrangement will be announced later. All students are required to take the midterm exam at this pre-scheduled time, and there will be no make-up exam for it. Students absent from the midterm exam will receive zero mark for this component, except for highly unusual circumstances that cannot be controlled and avoided by the student---in which case the grade weight on the midterm exam will be loaded to the final examination component.
-The current plan is to use in-person exams for this course; however, please note that the evolving pandemic may require us to use online evaluations. If this happens we will use Canvas to administer them.
+5. Examinations. The midterm examination is scheduled from 7:00pm to 9:00pm, Wednesday, March 20, 2022, in LTL ([Link to map.](https://pathadvisor.ust.hk/search/from/Lee%20Shau%20Kee%20Building;V_PTkWfLl96h;Overall;1226,1425/to/LTL;CqFJbBqIQO8P;CYTG;164,-212/floor/Overall/at/normalized/1550,928,3)), and LTF ([Link to map.](https://pathadvisor.ust.hk/search/from/Lee%20Shau%20Kee%20Building;V_PTkWfLl96h;Overall;1226,1425/to/LTF;Fn5NtzFNle_;1;1340,-463/floor/Overall/at/normalized/1292,1027,2)) and LTF. Details of the assigned seating arrangement will be announced later. All students are required to take the midterm exam at this pre-scheduled time, and there will be no make-up exam for it. Students absent from the midterm exam will receive zero mark for this component, except for highly unusual circumstances that cannot be controlled and avoided by the student---in which case the grade weight on the midterm exam will be loaded to the final examination component.
+__The current plan is to use in-person exams for this course; however, please note that the evolving pandemic may require us to use online evaluations.__ If online examinations are required by the university, then we will use Canvas to administer the examinations.
 
 6. Academic honesty. It is important that students follow university regulations on academic integrity and honesty. Academic dishonesty is super lame and will not be tolerated and will be dealt with in accordance with university rules, which can be accessed at http://www.ust.hk/vpaao/integrity.
 
@@ -135,5 +138,5 @@ The current plan is to use in-person exams for this course; however, please note
 
 | Exam | Date | Time | Location | Sessions Covered |
 | --- | --- | --- | --- |
-| Mid-Term | March 22, 2022 | 19:00 - 21:00 | TBA | 1-12  |
+| Mid-Term | March 22, 2022 | 19:00 - 21:00 | [CYT LTL](https://pathadvisor.ust.hk/search/from/Lee%20Shau%20Kee%20Building;V_PTkWfLl96h;Overall;1226,1425/to/LTL;CqFJbBqIQO8P;CYTG;164,-212/floor/Overall/at/normalized/1550,928,3), [LTF](https://pathadvisor.ust.hk/search/from/Lee%20Shau%20Kee%20Building;V_PTkWfLl96h;Overall;1226,1425/to/LTF;Fn5NtzFNle_;1;1340,-463/floor/Overall/at/normalized/1292,1027,2) | 1-12  |
 | Final | TBA | TBA | TBA | 1-24 |
