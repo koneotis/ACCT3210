@@ -42,14 +42,17 @@ Managers rely on accounting information to guide the planning and control proces
 
 ## Course Objectives:
 By the end of this course, you should be able to:
-1. Understand both the importance of management accounting for companies’ strategic and operational decisions and the pitfalls of misusing management accounting information and techniques.
-2. Solve problems arising in business planning, with the aid of mathematical and statistical tools.
-3. Evaluate various techniques for control and performance evaluation in a decentralized environment, and provide recommendations for an effective control system.
-4. Understand how managerial and financial accounting relate to data analytics, data science, and business intelligence.
-The course will also provide you with opportunities to
-5. Think through a variety of business problems.
-6. Demonstrate team-work and leadership skills in solving operational and strategic planning problems.
-7. Demonstrate communication skills through team work, and class discussions.
+
+1. Understand both the importance of management accounting for companies’ strategic and operational decisions and the pitfalls of misusing management accounting information and techniques.  
+2. Solve problems arising in business planning, with the aid of mathematical and statistical tools.  
+3. Evaluate various techniques for control and performance evaluation in a decentralized environment, and provide recommendations for an effective control system.  
+4. Understand how managerial and financial accounting relate to data analytics, data science, and business intelligence.  
+
+The course will also provide you with opportunities to:
+
+5. Think through a variety of business problems.  
+6. Demonstrate team-work and leadership skills in solving operational and strategic planning problems.  
+7. Demonstrate communication skills through team work, and class discussions.  
 
 ## Course Materials:
 __Required textbook:__ _Horngen’s Cost Accounting: A Managerial Emphasis_ (17th Ed.), by Srikant M. Datar, and Madhav Rajan. Pearson Education Inc.
