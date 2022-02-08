@@ -34,7 +34,7 @@ _Preliminary and subject to change_ [__Follow this link for current version__](h
 
 # A Note on COVID 19:
 
-The evolving pandemic will impact this course. This schedule, locations, and expectations of this course will change when required in order to comply with University policies. The version of the syllabus posted on [Github](https://github.com/ArthurHowardMorris/ACCT3210/blob/main/ACCT3210_Syl.pdf) and Canvas announcements will communicate changes as they are required.
+The evolving pandemic will impact this course. The schedule, locations, and expectations of this course will change when required in order to comply with University policies. The version of the syllabus posted on [Github](https://github.com/ArthurHowardMorris/ACCT3210/blob/main/ACCT3210_Syl.pdf) and Canvas announcements will communicate changes as they are required.
 
 # Course description:
 
